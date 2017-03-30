@@ -15,6 +15,7 @@
 		167EF9AB1DFA484B008A0DA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 167EF9A91DFA484B008A0DA7 /* LaunchScreen.storyboard */; };
 		167EF9B61DFA484B008A0DA7 /* _____loveYouTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 167EF9B51DFA484B008A0DA7 /* _____loveYouTests.m */; };
 		167EF9C11DFA484B008A0DA7 /* _____loveYouUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 167EF9C01DFA484B008A0DA7 /* _____loveYouUITests.m */; };
+		167EF9CF1DFA48B3008A0DA7 /* Language.plist in Resources */ = {isa = PBXBuildFile; fileRef = 167EF9CE1DFA48B3008A0DA7 /* Language.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		167EF9BC1DFA484B008A0DA7 /* 十种语言讲loveYouUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "十种语言讲loveYouUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		167EF9C01DFA484B008A0DA7 /* _____loveYouUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_____loveYouUITests.m"; sourceTree = "<group>"; };
 		167EF9C21DFA484B008A0DA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		167EF9CE1DFA48B3008A0DA7 /* Language.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Language.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				167EF99E1DFA484B008A0DA7 /* AppDelegate.h */,
 				167EF99F1DFA484B008A0DA7 /* AppDelegate.m */,
+				167EF9CE1DFA48B3008A0DA7 /* Language.plist */,
 				167EF9A11DFA484B008A0DA7 /* ViewController.h */,
 				167EF9A21DFA484B008A0DA7 /* ViewController.m */,
 				167EF9A41DFA484B008A0DA7 /* Main.storyboard */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				167EF9CF1DFA48B3008A0DA7 /* Language.plist in Resources */,
 				167EF9AB1DFA484B008A0DA7 /* LaunchScreen.storyboard in Resources */,
 				167EF9A81DFA484B008A0DA7 /* Assets.xcassets in Resources */,
 				167EF9A61DFA484B008A0DA7 /* Main.storyboard in Resources */,
